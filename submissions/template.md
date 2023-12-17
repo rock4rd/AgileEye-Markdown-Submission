@@ -24,6 +24,9 @@ Description of your applications (you can include lists, quotes, tables, etc)
 - ResourceManagement
 - Scheduling
 - Monitoring
+- Innovation
+- Efficiency
+- RealTime
       
 For references on markdown syntax  
 [Please refer here](https://www.markdownguide.org/basic-syntax/)

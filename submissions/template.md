@@ -22,6 +22,8 @@ Description of your applications (you can include lists, quotes, tables, etc)
 - Online Platform
 - Borrowing
 - ResourceManagement
+- Scheduling
+- Monitoring
       
 For references on markdown syntax  
 [Please refer here](https://www.markdownguide.org/basic-syntax/)
